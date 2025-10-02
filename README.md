@@ -5,7 +5,7 @@ Este repositorio contiene los ejercicios de Python desarrollados como parte del 
 Todos los ejercicios se encuentran organizados en un único archivo Jupyter Notebook.
 
 ## 🗂️ Estructura del Proyecto
-- `ejercicios.ipynb` - Archivo principal con todos los ejercicios de Python
+- `Entregable.ipynb` - Archivo principal con todos los ejercicios de Python
 - EnunciadoDataProjectPython.pdf
 - `README.md` - Este archivo con la documentación
 
